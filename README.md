@@ -1,2 +1,4 @@
 # initial_repository
-First space created today
+
+Playing around today
+Just getting to know the place
